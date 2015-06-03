@@ -30,5 +30,8 @@ namespace _8_3
             trip = num * 3;
 
         }
+        // Again, capitalisation for method names.
+        // Out variables are a feature of C# that we rarely actually use in production, as it usually makes things 
+        // harder to read, and you can usually avoid them - it's good to know how they work though.
     }
 }
